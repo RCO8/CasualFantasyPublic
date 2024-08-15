@@ -8,7 +8,10 @@
 <h3>프로젝트 소개</h3>
 <p>
 🗒️<a href="https://teamsparta.notion.site/4-3cf412a3ba174750a6969ef06577b8ce">노션 사이트</a><br>
-🎥영상 링크<br>
+🎥영상 콘텐츠
+<ul>
+  <li><a href="https://youtu.be/IqrSVLuYSSY">트레일러</a></li>
+</ul>
 </p>
 ⚔️주인공이 몬스터와 싸우고 나가는 어드벤처 게임입니다.
 
