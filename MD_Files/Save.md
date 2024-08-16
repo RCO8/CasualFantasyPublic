@@ -21,7 +21,7 @@ GameManager에서 JsonControll을 필드로 생성해 저장하는 메서드를 
 * 알기로는 Json이 멀티플랫폼까지 지원할 수 있는 걸로 알고 있어서 활용도가 유용할 것이다.
 
 #코드 샘플
-```
+```cs
 public class JsonControll
 {
     private NPCDataManager NPCs;
