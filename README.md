@@ -43,7 +43,7 @@
 <p>
   <ul>
     <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/Save.md">JSON으로 데이터 직렬화</a></li>
-    <li>Scriptable Objective로 데이터 관리</li>
+    <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/ScriptableObjective.md">Scriptable Objective로 데이터 관리</a></li>
     <li>이벤트 핸들러로 상호작용</li>
   </ul>
 </p>
