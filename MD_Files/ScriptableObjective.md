@@ -77,5 +77,11 @@ public void EnterBattleScene(int _npcID)
 
 <h3>스킬 데이터</h3>
 <p>
- 
+ 스킬에도 데미지, 공속, 지속시간 등이 있을 것이다.
+
+ ![imageSkill](https://github.com/user-attachments/assets/1db596e7-430c-41d1-8f5e-de3e8b0e077d)
+<br>
+액티브 스킬정보에 따라 적에게 입히는 Damage, 플레이어의 체력을 회복하는 Heal, 데미지의 추가 공격인 Attack 그리고 공격하는 속도인 Speed 등이 있다.
+
+하지만 스킬에서는 기간 내에 완성되지 못했다.... ㅠㅠ
 </p>
