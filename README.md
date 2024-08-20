@@ -46,7 +46,7 @@
     <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/Save.md">JSON으로 데이터 직렬화</a></li>
     <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/ScriptableObjective.md">Scriptable Objective로 데이터 관리</a></li>
     <li>이벤트 핸들러로 상호작용</li>
-    <li>기능별 UI MVC패턴으로 관리</li>
+    <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/UIMVC.md">기능별 UI MVC패턴으로 관리</a></li>
   </ul>
 </p>
 
