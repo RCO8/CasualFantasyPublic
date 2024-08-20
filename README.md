@@ -8,6 +8,7 @@
 <h3>프로젝트 소개</h3>
 <p>
   🗒️<a href="https://teamsparta.notion.site/4-3cf412a3ba174750a6969ef06577b8ce">노션 사이트</a><br>
+  🔗<a href="https://hyeokjaes-games.itch.io/casual-fantasy">게임 링크</a>
 </p>
 🎥영상 콘텐츠
 <ul>
@@ -34,12 +35,12 @@
 </table>
 
 <hr />
-<h3>프로젝트 계기</h3>
+<h3>🎯프로젝트 계기</h3>
 원래 배틀카드로 사용해서 적이랑 싸우는 격투형 RPG를 제작하였으나 여러가지의 어려움이 있다는 피드백을 받아서 간단한 공격, 스킬로 사용하여 배틀하는 RPG게임으로 확정되었다.<br>
 여기 <a href="https://www.notion.so/RPG-3fe152b06d6948bcb9052581e3671ebb">기획링크</a>대로 반영하려고 했으나 찾을만한 에셋이 맞지 않아 문제가 생겼다......
 
 <hr />
-<h3>사용 기술 스택</h3>
+<h3>📙사용 기술 스택</h3>
 <p>
   <ul>
     <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/Save.md">JSON으로 데이터 직렬화</a></li>
@@ -50,7 +51,7 @@
 </p>
 
 <hr />
-<h3>만든 사람들</h3>
+<h3>👤만든 사람들</h3>
 <table>
   <tr>
     <td>탁혁재</td>
