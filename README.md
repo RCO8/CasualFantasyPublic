@@ -46,8 +46,8 @@
     <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/Save.md">JSON으로 데이터 직렬화</a></li>
     <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/ScriptableObjective.md">Scriptable Objective로 데이터 관리</a></li>
     <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/UIMVC.md">기능별 UI MVC패턴으로 관리</a></li>
-    <li>BehaviorTree로 보스 상태 관리</li>
-    <li>비동기 에셋으로 로딩 구현</li>
+    <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/BehaviorTree.md">BehaviorTree로 보스 상태 관리</a></li>
+    <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/AsyncAsset.md">비동기 에셋으로 로딩 구현</a></li>
   </ul>
 </p>
 
