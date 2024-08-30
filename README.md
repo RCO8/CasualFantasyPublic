@@ -7,8 +7,8 @@
 <hr/>
 <h3>프로젝트 소개</h3>
 <p>
-  🗒️<a href="https://teamsparta.notion.site/4-3cf412a3ba174750a6969ef06577b8ce">노션 사이트</a><br>
-  🔗<a href="https://hyeokjaes-games.itch.io/casual-fantasy">게임 링크</a>
+  🗒️<a href="https://teamsparta.notion.site/4-3cf412a3ba174750a6969ef06577b8ce">노션 사이트 (프로젝트 기간동안 팀원들의 업적이나 활동 기록들)</a><br>
+  🔗<a href="https://hyeokjaes-games.itch.io/casual-fantasy">게임 링크 (itch.io, 압축파일을 받아 풀어 플레이하시면 됩니다)</a>
 </p>
 🎥영상 콘텐츠
 <ul>
