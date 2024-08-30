@@ -6,6 +6,9 @@
 
 <hr/>
 <h3>프로젝트 소개</h3>
+
+<h5>이 게임은 NPC의 퀘스트를 클리어하면서 몬스터를 물리치는 모험 RPG입니다.</h5>
+
 <p>
   🗒️<a href="https://teamsparta.notion.site/4-3cf412a3ba174750a6969ef06577b8ce">노션 사이트 (프로젝트 기간동안 팀원들의 업적이나 활동 기록들)</a><br>
   🔗<a href="https://hyeokjaes-games.itch.io/casual-fantasy">게임 링크 (itch.io, 압축파일을 받아 풀어 플레이하시면 됩니다)</a>
@@ -65,5 +68,9 @@
   <tr>
     <td>최재원</td>
     <td>메뉴 UI, 인벤토리 UI, 퀘스트 시스템, 사운드 매니저</td>
+  </tr>
+  <tr>
+    <td>송지원 튜터</td>
+    <td>멘토링, 프로젝트 및 기획 피드백</td>
   </tr>
 </table>
