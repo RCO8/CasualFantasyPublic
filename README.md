@@ -43,7 +43,7 @@
 여기 <a href="https://www.notion.so/RPG-3fe152b06d6948bcb9052581e3671ebb">기획링크</a>대로 반영하려고 했으나 찾을만한 에셋이 맞지 않아 문제가 생겼다......
 
 <hr />
-<h3>📙사용 기술 스택</h3>
+<h3>📙사용 기술 스택 및⚠️트러블슈팅</h3>
 <p>
   <ul>
     <li><a href="https://github.com/RCO8/CasualFantasyPublic/blob/main/MD_Files/Save.md">JSON으로 데이터 직렬화</a></li>
