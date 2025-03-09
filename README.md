@@ -16,6 +16,7 @@
 🎥영상 콘텐츠
 <ul>
   <li><a href="https://youtu.be/IqrSVLuYSSY">트레일러</a></li>
+  <li><a href="https://youtu.be/O-RFtQqG73I">시현영상</li>
 </ul>
 ⚔️주인공이 몬스터와 싸우고 나가는 어드벤처 게임입니다.
 
